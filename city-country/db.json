@@ -17,8 +17,18 @@
         {
             "id":1,
             "city":"Hubli",
-            "country":"",
+            "country":"India",
             "population":190000000
+        },{
+            "id":2,
+            "city":"Hyderabad",
+            "country":"India",
+            "population":19087000
+        },{
+            "id":3,
+            "city":"Goa",
+            "country":"India",
+            "population":80000
         }
     ]
 }
